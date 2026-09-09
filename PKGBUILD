@@ -1,6 +1,6 @@
 pkgname="sleex-artworks"
 pkgver="1.0"
-pkgrel="1"
+pkgrel="2"
 pkgdesc="Icons and wallpapers for Sleex desktop environment"
 arch=("x86_64")
 
